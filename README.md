@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chamodyashakunthala/chamodyashakunthal/main/softwareArchitect.png" alt="Profile Banner" />
+</p>
+
+
+
+
 ## Hi there 👋 I'm Chamodya Shakunthala!
 
 
