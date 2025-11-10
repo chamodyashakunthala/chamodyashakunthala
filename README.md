@@ -14,18 +14,28 @@ I am passionate about software design & architecture, operating systems(Linux), 
 🎯 My goal is to become a Software Architect.
 
 
-##  🔭 Featured projetcs
-⭐ Tutor Appointment System – Booking and scheduling system
-⭐ student management system( using Kotlin)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chamodyashakunthala&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamodyashakunthala&theme=tokyonight" />
+</p>
 
-## 🛠️ Skills & Tools
-Java | C++ | MySQL | UML | Git | Draw.io | Figma | VS Code
+### 🛠️ Languages & Tools:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cpp,mysql,linux,git,github,dart,flutter,figma,vscode" />
+</p>
+
 
 
 ### 💬 About Me
 I enjoy teaching others what I learn, practicing diagrams, and building systems step by step😍❤
 
+![Visitor Count](https://komarev.com/ghpvc/?username=chamodyashakunthal&style=for-the-badge)
+
+
 ### 📫 Connect With Me
 📩email: shakunthalachamodya@gmail.com
 
- LinkedIn : https://www.linkedin.com/in/chamodya-shakunthala-1387362a8/
+ [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/chamodya-shakunthala-1387362a8/)
