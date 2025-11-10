@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chamodyashakunthal/chamodyashakunthal/main/softwareArchitect.png" alt="Profile Banner" />
+  <img src="https://raw.githubusercontent.com/chamodyashakunthala/chamodyashakunthala/main/softwareArchitect.png" alt="Profile Banner" />
 </p>
 
 
