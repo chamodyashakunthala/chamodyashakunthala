@@ -26,7 +26,11 @@ I am passionate about software design & architecture, operating systems(Linux), 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,cpp,mysql,linux,git,github,dart,flutter,figma,vscode" />
 </p>
-![trophy](https://github-profile-trophy.vercel.app/?username=chamodyashakunthala&theme=dark)
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChamodyaShakunthala&theme=dark&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies">
+</p>
 
 
 
