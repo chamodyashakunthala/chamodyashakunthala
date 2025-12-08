@@ -32,7 +32,9 @@ I am passionate about software design & architecture, operating systems(Linux), 
   <img src="https://github-profile-trophy.vercel.app/?username=ChamodyaShakunthala&theme=dark&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p>
 
-
+### finished projects (only architecture plan)
+   1. https://github.com/chamodyashakunthala/tutor_appointment_system
+   2. https://github.com/chamodyashakunthala/medguardian-architecture
 
 
 ### 💬 About Me
