@@ -53,10 +53,10 @@ I am passionate about:
 
 ## 📂 Featured Architecture Projects
 - 🧠 Tutor Appointment System Architecture:  
-  🔗 github.com/chamodyashakunthala/tutor_appointment_system  
+  🔗 [github.com/chamodyashakunthala/tutor_appointment_system ](https://github.com/chamodyashakunthala/tutor_appointment_system) 
 
 - 🏥 MedGuardian System Architecture:  
-  🔗 github.com/chamodyashakunthala/medguardian-architecture  
+  🔗[ github.com/chamodyashakunthala/medguardian-architecture ](https://github.com/chamodyashakunthala/medguardian-architecture) 
 
 ---
 
