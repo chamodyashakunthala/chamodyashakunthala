@@ -85,7 +85,7 @@ I am passionate about:
   🔗 [ github.com/chamodyashakunthala/medguardian-architecture ](https://github.com/chamodyashakunthala/medguardian-architecture)
 
 - 💻 AI Architecture Assistant Chatbot(considering only the architecture):
-  🔗 [ github.com/chamodyashakunthala/medguardian-architecture ](https://github.com/chamodyashakunthala/AI-Architecture-Assistant-Bot.git)
+  🔗 [ github.com/chamodyashakunthala/AI-Architecture-Assistant-Bot ](https://github.com/chamodyashakunthala/AI-Architecture-Assistant-Bot)
 
 ---
 
