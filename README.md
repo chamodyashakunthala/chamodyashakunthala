@@ -39,7 +39,7 @@ I am passionate about:
 - Analyze operating systems concepts (CPU scheduling, VM, processes)
 - Create clean UI/UX prototypes in Figma 
 
-# 🧩 My Tech Skills (with Icons)
+# 🧩 My Tech Skills 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,dart,flutter,linux,mysql,git,github,html,css,figma" height="120" />
@@ -67,21 +67,7 @@ I am passionate about:
 - Problem solving
 - Continuous learning
 
-# 📊 GitHub Analytics (Beautiful Cards)
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chamodyashakunthala&show_icons=true&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=chamodyashakunthala&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chamodyashakunthala&theme=radical&margin-w=15" />
-</p>
-
----
 
 
 ## 📊 GitHub Stats & Activity
