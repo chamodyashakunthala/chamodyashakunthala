@@ -82,7 +82,10 @@ I am passionate about:
   🔗 [github.com/chamodyashakunthala/tutor_appointment_system ](https://github.com/chamodyashakunthala/tutor_appointment_system) 
 
 - 🏥 MedGuardian System Architecture:  
-  🔗[ github.com/chamodyashakunthala/medguardian-architecture ](https://github.com/chamodyashakunthala/medguardian-architecture) 
+  🔗 [ github.com/chamodyashakunthala/medguardian-architecture ](https://github.com/chamodyashakunthala/medguardian-architecture)
+
+- 💻 AI Architecture Assistant Chatbot(considering only the architecture)
+  🔗 https://github.com/chamodyashakunthala/AI-Architecture-Assistant-Bot
 
 ---
 
