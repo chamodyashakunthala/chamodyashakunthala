@@ -29,7 +29,7 @@ I am passionate about software design & architecture, operating systems(Linux), 
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChamodyaShakunthala&theme=dark&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=chamodyashakunthala&theme=dark&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p>
 
 ### finished projects (only architecture plan)
@@ -40,7 +40,7 @@ I am passionate about software design & architecture, operating systems(Linux), 
 ### 💬 About Me
 I enjoy teaching others what I learn, practicing diagrams, and building systems step by step😍❤
 
-![Visitor Count](https://komarev.com/ghpvc/?username=chamodyashakunthal&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=chamodyashakunthala&style=for-the-badge)
 
 
 ### 📫 Connect With Me
