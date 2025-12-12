@@ -5,7 +5,8 @@
 
 
 
-## Hi there 👋 I'm Chamodya Shakunthala!
+<h1 align="center">Hi 👋, I'm Chamodya Shakunthala</h1>
+<h3 align="center">Aspiring Software Architect | System Design Enthusiast | OS & UML Lover</h3>
 
 
 I am passionate about software design & architecture, operating systems(Linux), System design, computer system organiation, responsible UI/UX, Moblie application development(Dart),Data structures  & algorithms
@@ -14,14 +15,6 @@ I am passionate about software design & architecture, operating systems(Linux), 
 🎯 My goal is to become a Software Architect.
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/chamodyashakunthala/chamodyashakunthala/main/softwareArchitect.png" width="100%" alt="Banner"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Chamodya Shakunthala</h1>
-<h3 align="center">Aspiring Software Architect | System Design Enthusiast | OS & UML Lover</h3>
-
----
 
 ### 🚀 About Me
 I am passionate about:
@@ -52,17 +45,17 @@ I am passionate about:
 
 ### ⭐ GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chamodyashakunthala&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chamodyashakunthala&v=2show_icons=true&theme=tokyonight" />
 </p>
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=chamodyashakunthala&theme=tokyonight" />
+  <img height="165" src="https://streak-stats.demolab.com?user=chamodyashakunthala&v=2theme=tokyonight" />
 </p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chamodyashakunthala&theme=onedark&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chamodyashakunthala&v=2theme=onedark&margin-w=15&margin-h=15" />
 </p>
 
 ---
