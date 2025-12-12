@@ -11,11 +11,11 @@ I am passionate about software design & architecture, operating systems (Linux),
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamodyashakunthala&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chamodyashakunthala&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamodyashakunthala&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=chamodyashakunthala&theme=tokyonight" />
 </p>
 
 ### 🛠️ Languages & Tools:
@@ -25,7 +25,7 @@ I am passionate about software design & architecture, operating systems (Linux),
 
 # 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chamodyashakunthala&theme=dark&row=1&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=chamodyashakunthala&theme=dark&row=1&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ### ✨ Finished Projects (Architecture Plan Only)
