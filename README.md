@@ -45,18 +45,6 @@ I am passionate about:
   <img src="https://skillicons.dev/icons?i=java,cpp,dart,flutter,linux,mysql,git,github,html,css,figma" height="120" />
 </p>
 
-# 🏗️ Architecture & System Design Skills
-
-<p align="center">
-  <img src="https://i.imgur.com/xTj8OpV.png" width="650px">
-</p>
-
-# 🖼️ Architecture Project Showcase
-
-<p align="center">
-  <img src="https://i.imgur.com/N0fY0Gl.png" width="90%" />
-</p>
-
 
 
 
