@@ -27,19 +27,62 @@ I am passionate about:
 - Data Structures & Algorithms  
 - UML & Software Modeling  
 
-🌱 I’m currently learning **Java, SQL, DSA, UML, AWS, Linux**  
-🎯 Goal: Become a **Software Architect**  
+🌱 I’m currently learning Java, SQL, DSA, UML, AWS, Linux 
+🎯 Goal: Become a **Software Architect** 
 💡 I love teaching others and creating diagrams step-by-step  
 
----
+### 💡 What I Do
+- Design scalable system architectures  
+- Model systems using UML (Use Case, Sequence, Class, Statecharts)  
+- Build high-quality mobile apps using Flutter  
+- Solve Data Structures & Algorithm problems  
+- Analyze operating systems concepts (CPU scheduling, VM, processes)
+- Create clean UI/UX prototypes in Figma 
 
-## 🛠️ Tech Stack
+# 🧩 My Tech Skills (with Icons)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,mysql,linux,git,github,dart,flutter,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,dart,flutter,linux,mysql,git,github,html,css,figma" height="120" />
+</p>
+
+# 🏗️ Architecture & System Design Skills
+
+<p align="center">
+  <img src="https://i.imgur.com/xTj8OpV.png" width="650px">
+</p>
+
+# 🖼️ Architecture Project Showcase
+
+<p align="center">
+  <img src="https://i.imgur.com/N0fY0Gl.png" width="90%" />
+</p>
+
+
+
+
+### 🤝 Soft Skills
+- Strong communication
+- Teaching mindset
+- System thinking
+- Problem solving
+- Continuous learning
+
+# 📊 GitHub Analytics (Beautiful Cards)
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chamodyashakunthala&show_icons=true&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=chamodyashakunthala&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chamodyashakunthala&theme=radical&margin-w=15" />
 </p>
 
 ---
+
 
 ## 📊 GitHub Stats & Activity
 
@@ -86,3 +129,7 @@ I am passionate about:
   </a>
 </p>
 
+
+
+
+                                                                ⭐ From Chamodya Shakunthala — Future Software Architect   
