@@ -84,11 +84,14 @@ I am passionate about:
 - 🏥 MedGuardian System Architecture:  
   🔗 [ github.com/chamodyashakunthala/medguardian-architecture ](https://github.com/chamodyashakunthala/medguardian-architecture)
 
-- 💻 AI Architecture Assistant Chatbot(considering only the architecture):
-  🔗 [ github.com/chamodyashakunthala/AI-Architecture-Assistant-Bot ](https://github.com/chamodyashakunthala/AI-Architecture-AssistantBot)
+- 💻 AI Architecture Assistant Chatbot(considering only the architecture): 
+   🔗 [ github.com/chamodyashakunthala/AI-Architecture-Assistant-Bot ](https://github.com/chamodyashakunthala/AI-Architecture-AssistantBot)
 
-- 🌩  Disaster Management System
-  🔗  https://github.com/chamodyashakunthala/smart-city-architecture-platform.git
+- 🌩  Disaster Management System:
+   🔗  https://github.com/chamodyashakunthala/smart-city-architecture-platform.git
+
+- ⛅ Live Weather API
+   🔗 https://github.com/chamodyashakunthala/Live-Weather-System.git
 
 ---
 
