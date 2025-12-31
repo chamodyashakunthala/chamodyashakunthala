@@ -87,6 +87,9 @@ I am passionate about:
 - 💻 AI Architecture Assistant Chatbot(considering only the architecture):
   🔗 [ github.com/chamodyashakunthala/AI-Architecture-Assistant-Bot ](https://github.com/chamodyashakunthala/AI-Architecture-AssistantBot)
 
+- 🌩  Disaster Management System
+  🔗  https://github.com/chamodyashakunthala/smart-city-architecture-platform.git
+
 ---
 
 ## 👀 Visitor Count
