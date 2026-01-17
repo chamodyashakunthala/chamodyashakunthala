@@ -55,7 +55,8 @@ I am passionate about:
 - Problem solving
 - Continuous learning
 
-![Snake animation](https://github.com/chamodyashakunthala/chamodyashakunthala/blob/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/chamodyashakunthala/snk/output/github-contribution-grid-snake.svg)
+
 
 ###🌐 Contributions
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chamodyashakunthala&theme=react-dark)
