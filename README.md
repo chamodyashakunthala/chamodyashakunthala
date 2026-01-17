@@ -55,31 +55,17 @@ I am passionate about:
 - Problem solving
 - Continuous learning
 
+<!-- Animated Snake Contribution Graph -->
+![Snake animation](https://github.com/chamodyashakunthala/chamodyashakunthala/blob/output/github-contribution-grid-snake.svg)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chamodyashakunthala&theme=tokyonight&hide_border=true)
+
+<!-- Dynamic Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=chamodyashakunthala&style=for-the-badge&color=blue)
 
 
 
-## 📊 GitHub Stats & Activity
-
-### ⭐ GitHub Stats
-<p align="center">
-  <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chamodyashakunthala&show_icons=true&theme=tokyonight" />
-</p>
-![Chamodya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamodyashakunthala&show_icons=true&theme=radical)
-
-
-### 🔥 GitHub Streak
-<p align="center">
-  <img height="165" src="(https://streak-stats.demolab.com?user=chamodyashakunthala&theme=tokyonight" /> 
-</p>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chamodyashakunthala&theme=radical)
-
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chamodyashakunthala&theme=onedark&margin-w=15&margin-h=15" />
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=chamodyashakunthala&theme=radical&no-frame=true&margin-w=15)
-
-</p>
 
 
 ###🌐 Contributions
