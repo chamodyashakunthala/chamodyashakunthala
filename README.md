@@ -55,17 +55,6 @@ I am passionate about:
 - Problem solving
 - Continuous learning
 
-<!-- Animated Snake Contribution Graph -->
-![Snake animation](https://github.com/chamodyashakunthala/chamodyashakunthala/blob/output/github-contribution-grid-snake.svg)
-
-<!-- Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chamodyashakunthala&theme=tokyonight&hide_border=true)
-
-<!-- Dynamic Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=chamodyashakunthala&style=for-the-badge&color=blue)
-
-
-
 
 
 ###🌐 Contributions
