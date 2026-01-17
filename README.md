@@ -67,7 +67,7 @@ I am passionate about:
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=chamodyashakunthala&theme=tokyonight" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=chamodyashakunthala&" alt = "chamodyashakunthala"> 
 </p>
 
 ### 🏆 GitHub Trophies
