@@ -64,16 +64,26 @@ I am passionate about:
 <p align="center">
   <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=chamodyashakunthala&show_icons=true&theme=tokyonight" />
 </p>
+![Chamodya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chamodyashakunthala&show_icons=true&theme=radical)
+
 
 ### 🔥 GitHub Streak
 <p align="center">
   <img height="165" src="(https://streak-stats.demolab.com?user=chamodyashakunthala&theme=tokyonight" /> 
 </p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chamodyashakunthala&theme=radical)
+
 
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=chamodyashakunthala&theme=onedark&margin-w=15&margin-h=15" />
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=chamodyashakunthala&theme=radical&no-frame=true&margin-w=15)
+
 </p>
+
+
+###🌐 Contributions
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chamodyashakunthala&theme=react-dark)
 
 ---
 
