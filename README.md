@@ -112,4 +112,4 @@ I am passionate about software design & architecture, operating systems(Linux), 
 
 
 
-                       <sub>⭐ From Chamodya Shakunthala — building my way toward Software Architecture, one working system at a time.</sub>
+                       ⭐ From Chamodya Shakunthala — building my way toward Software Architecture, one working system at a time.
