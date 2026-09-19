@@ -38,7 +38,7 @@ I am passionate about software design & architecture, operating systems(Linux), 
 # 🧩 My Tech Skills 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,dart,go,postgres,redis,,docker,flutter,linux,mysql,git,github,html,css,figma" height="120" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,dart,go,postgres,redis,docker,flutter,linux,mysql,git,github,html,css,figma" height="120" />
 </p>
 
 
@@ -79,16 +79,15 @@ I am passionate about software design & architecture, operating systems(Linux), 
 
 ### 📊 GitHub Activity
 
-[
+
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chamodyashakunthala&theme=react-dark)
 
-](https://github.com/chamodyashakunthala)
+
 
 
 
 ![Snake animation](https://raw.githubusercontent.com/chamodyashakunthala/snk/output/github-contribution-grid-snake.svg)
-
 
 ---
 
