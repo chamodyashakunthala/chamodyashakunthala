@@ -11,7 +11,7 @@
 
 I am passionate about software design & architecture, operating systems(Linux), System design, computer system organization, responsible UI/UX, Mobile application development(Dart),Data structures  & algorithms. I would like to build backend systems and design software architecture - with a growing focus on turning designs in to working,deployed code.
 
-🌱 I’m currently learning Java, SQL, Data Structures, UML diagrams.Software Architecture, AWS, operating systems(Linux)
+🌱 I’m currently learning Java, SQL, Data Structures, UML diagrams.Software Architecture, AWS, operating systems(Linux) <br>
 🎯 My goal is to become a Software Architect.
 
 
