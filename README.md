@@ -77,17 +77,7 @@ I am passionate about software design & architecture, operating systems(Linux), 
 
 ---
 
-### 📊 GitHub Activity
-
-
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chamodyashakunthala&theme=react-dark)
-
-
-
-
-
-![Snake animation](https://raw.githubusercontent.com/chamodyashakunthala/snk/output/github-contribution-grid-snake.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamodyashakunthala&show_icons=true&theme=react&hide_border=true)
 
 ---
 
