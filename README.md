@@ -63,22 +63,22 @@ I am passionate about software design & architecture, operating systems(Linux), 
 
 ### 🛠️ Featured Projects
 
-**[🔗 URL Shortener]([https://github.com/chamodyashakunthala/url-shortener](https://github.com/chamodyashakunthala/url-shortener.git))**
+**[🔗 URL Shortener](https://github.com/chamodyashakunthala/url-shortener.git)**
 Backend service in Go — REST API, bcrypt authentication, session tokens, PostgreSQL persistence, Redis caching, fully Dockerized.
 
-**[📱 Smart Expense Tracker]([https://github.com/chamodyashakunthala/smart-expense-tracker](https://github.com/chamodyashakunthala/SmartExpenseTracker.git))**
+**[📱 Smart Expense Tracker](https://github.com/chamodyashakunthala/SmartExpenseTracker.git)**
 Offline-first Android app for student expense management, with AI-powered spending advice.
 
-**[🤖 A/L Stream Advisor Chat Bot]([https://github.com/chamodyashakunthala/AI-Architecture-Assistant-Bot](https://github.com/chamodyashakunthala/A-L-Stream-Advisor-Chatbot.git))**
+**[🤖 A/L Stream Advisor Chat Bot](https://github.com/chamodyashakunthala/A-L-Stream-Advisor-Chatbot.git)**
 Python chatbot exploring suitable stream for students.
 
-**[🏥 MedGuardian System Architecture]([https://github.com/chamodyashakunthala/medguardian-architecture](https://github.com/chamodyashakunthala/medguardian-architecture.git))**
+**[🏥 MedGuardian System Architecture](https://github.com/chamodyashakunthala/medguardian-architecture.git)**
 Full software architecture design for a Medicine Reminder & Emergency Assist System.
 
-**[🧠 Tutor Appointment System]([https://github.com/chamodyashakunthala/tutor_appointment_system](https://github.com/chamodyashakunthala/tutor_appointment_system.git))**
+**[🧠 Tutor Appointment System](https://github.com/chamodyashakunthala/tutor_appointment_system.git)**
 Software architecture design for a tutor appointment scheduling system.
 
-**[⛅ Live Weather System]([https://github.com/chamodyashakunthala/Live-Weather-System](https://github.com/chamodyashakunthala/Live-Weather-System.git))**
+**[⛅ Live Weather System](https://github.com/chamodyashakunthala/Live-Weather-System.git)**
 A simple live weather dashboard, auto-updating from a public API.
 
 ---
