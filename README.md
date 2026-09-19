@@ -53,33 +53,27 @@ I am passionate about software design & architecture, operating systems(Linux), 
 
   
 
-![Snake animation](https://raw.githubusercontent.com/chamodyashakunthala/snk/output/github-contribution-grid-snake.svg)
 
-
-###🌐 Contributions
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chamodyashakunthala&theme=react-dark)
-
----
 
 ### 🛠️ Featured Projects
 
 **[🔗 URL Shortener](https://github.com/chamodyashakunthala/url-shortener.git)**
-Backend service in Go — REST API, bcrypt authentication, session tokens, PostgreSQL persistence, Redis caching, fully Dockerized.
+->Backend service in Go — REST API, bcrypt authentication, session tokens, PostgreSQL persistence, Redis caching, fully Dockerized.
 
 **[📱 Smart Expense Tracker](https://github.com/chamodyashakunthala/SmartExpenseTracker.git)**
-Offline-first Android app for student expense management, with AI-powered spending advice.
+->Offline-first Android app for student expense management, with AI-powered spending advice.
 
 **[🤖 A/L Stream Advisor Chat Bot](https://github.com/chamodyashakunthala/A-L-Stream-Advisor-Chatbot.git)**
-Python chatbot exploring suitable stream for students.
+->Python chatbot exploring suitable stream for students.
 
 **[🏥 MedGuardian System Architecture](https://github.com/chamodyashakunthala/medguardian-architecture.git)**
-Full software architecture design for a Medicine Reminder & Emergency Assist System.
+->Full software architecture design for a Medicine Reminder & Emergency Assist System.
 
 **[🧠 Tutor Appointment System](https://github.com/chamodyashakunthala/tutor_appointment_system.git)**
-Software architecture design for a tutor appointment scheduling system.
+->Software architecture design for a tutor appointment scheduling system.
 
 **[⛅ Live Weather System](https://github.com/chamodyashakunthala/Live-Weather-System.git)**
-A simple live weather dashboard, auto-updating from a public API.
+->A simple live weather dashboard, auto-updating from a public API.
 
 ---
 
