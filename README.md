@@ -60,6 +60,9 @@ I am passionate about software design & architecture, operating systems(Linux), 
 **[🔗 URL Shortener](https://github.com/chamodyashakunthala/url-shortener.git)**
 ->Backend service in Go — REST API, bcrypt authentication, session tokens, PostgreSQL persistence, Redis caching, fully Dockerized.
 
+**[🔀 API Gateway](https://github.com/chamodyashakunthala/api-gateway.git)**
+->Reverse proxy in Go with path-based routing to multiple backends and per-client rate limiting (token bucket), fully Dockerized.
+
 **[📱 Smart Expense Tracker](https://github.com/chamodyashakunthala/SmartExpenseTracker.git)**
 ->Offline-first Android app for student expense management, with AI-powered spending advice.
 
@@ -74,6 +77,7 @@ I am passionate about software design & architecture, operating systems(Linux), 
 
 **[⛅ Live Weather System](https://github.com/chamodyashakunthala/Live-Weather-System.git)**
 ->A simple live weather dashboard, auto-updating from a public API.
+
 
 ---
 
