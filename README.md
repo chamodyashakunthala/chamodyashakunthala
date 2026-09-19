@@ -6,10 +6,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Chamodya Shakunthala</h1>
-<h3 align="center">Aspiring Software Architect | System Design Enthusiast | OS & UML Lover</h3>
+<h3 align="center">Software Engineering Undergraduate | Backend & System Design Enthusiast | Software Architecture </h3>
 
 
-I am passionate about software design & architecture, operating systems(Linux), System design, computer system organiation, responsible UI/UX, Moblie application development(Dart),Data structures  & algorithms
+I am passionate about software design & architecture, operating systems(Linux), System design, computer system organization, responsible UI/UX, Mobile application development(Dart),Data structures  & algorithms. I would like to build backend systems and design software architecture - with a growing focus on turning designs in to working,deployed code.
 
 🌱 I’m currently learning Java, SQL, Data Structures, UML diagrams.Software Architecture, AWS, operating systems(Linux)
 🎯 My goal is to become a Software Architect.
@@ -17,19 +17,15 @@ I am passionate about software design & architecture, operating systems(Linux), 
 
 
 ### 🚀 About Me
-I am passionate about:
 
-- Software Design & Architecture  
-- Operating Systems (Linux)  
-- System Design & Computer Organization  
-- UI/UX (Responsible & Clean Interfaces)  
-- Mobile App Development (Flutter/Dart)  
-- Data Structures & Algorithms  
-- UML & Software Modeling  
+- 🎓 3rd-year Software Engineering undergraduate
+- 🔧 Currently deepening my backend engineering skills — Go, REST APIs, PostgreSQL, Redis, Docker
+- 🏗️ Also passionate about software architecture, UML modeling, and system design
+- 📱 Experience building mobile apps (Flutter/Dart, Android/Java)
+- 🎯 Goal: internship in backend/software engineering, then Software Architect long-term
+- 💬 Ask me about system design, Go, or UML diagrams 
 
-🌱 I’m currently learning Java, SQL, DSA, UML, AWS, Linux 
-🎯 Goal: Become a **Software Architect** 
-💡 I love teaching others and creating diagrams step-by-step  
+  
 
 ### 💡 What I Do
 - Design scalable system architectures  
@@ -42,7 +38,7 @@ I am passionate about:
 # 🧩 My Tech Skills 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,dart,flutter,linux,mysql,git,github,html,css,figma" height="120" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,dart,go,postgres,redis,,docker,flutter,linux,mysql,git,github,html,css,figma" height="120" />
 </p>
 
 
@@ -65,21 +61,40 @@ I am passionate about:
 
 ---
 
-## 📂 Featured Architecture Projects
-- 🧠 Tutor Appointment System Architecture:  
-  🔗 [github.com/chamodyashakunthala/tutor_appointment_system ](https://github.com/chamodyashakunthala/tutor_appointment_system) 
+### 🛠️ Featured Projects
 
-- 🏥 MedGuardian System Architecture:  
-  🔗 [ github.com/chamodyashakunthala/medguardian-architecture ](https://github.com/chamodyashakunthala/medguardian-architecture)
+**[🔗 URL Shortener]([https://github.com/chamodyashakunthala/url-shortener](https://github.com/chamodyashakunthala/url-shortener.git))**
+Backend service in Go — REST API, bcrypt authentication, session tokens, PostgreSQL persistence, Redis caching, fully Dockerized.
 
-- 💻 AI Architecture Assistant Chatbot(considering only the architecture): 
-   🔗 [ github.com/chamodyashakunthala/AI-Architecture-Assistant-Bot ](https://github.com/chamodyashakunthala/AI-Architecture-AssistantBot)
+**[📱 Smart Expense Tracker]([https://github.com/chamodyashakunthala/smart-expense-tracker](https://github.com/chamodyashakunthala/SmartExpenseTracker.git))**
+Offline-first Android app for student expense management, with AI-powered spending advice.
 
-- 🌩  Disaster Management System:
-   🔗  https://github.com/chamodyashakunthala/smart-city-architecture-platform.git
+**[🤖 A/L Stream Advisor Chat Bot]([https://github.com/chamodyashakunthala/AI-Architecture-Assistant-Bot](https://github.com/chamodyashakunthala/A-L-Stream-Advisor-Chatbot.git))**
+Python chatbot exploring suitable stream for students.
 
-- ⛅ Live Weather API
-   🔗 https://github.com/chamodyashakunthala/Live-Weather-System.git
+**[🏥 MedGuardian System Architecture]([https://github.com/chamodyashakunthala/medguardian-architecture](https://github.com/chamodyashakunthala/medguardian-architecture.git))**
+Full software architecture design for a Medicine Reminder & Emergency Assist System.
+
+**[🧠 Tutor Appointment System]([https://github.com/chamodyashakunthala/tutor_appointment_system](https://github.com/chamodyashakunthala/tutor_appointment_system.git))**
+Software architecture design for a tutor appointment scheduling system.
+
+**[⛅ Live Weather System]([https://github.com/chamodyashakunthala/Live-Weather-System](https://github.com/chamodyashakunthala/Live-Weather-System.git))**
+A simple live weather dashboard, auto-updating from a public API.
+
+---
+
+### 📊 GitHub Activity
+
+[
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chamodyashakunthala&theme=react-dark)
+
+](https://github.com/chamodyashakunthala)
+
+
+
+![Snake animation](https://raw.githubusercontent.com/chamodyashakunthala/snk/output/github-contribution-grid-snake.svg)
+
 
 ---
 
@@ -103,4 +118,4 @@ I am passionate about:
 
 
 
-                                                                ⭐ From Chamodya Shakunthala — Future Software Architect   
+                       <sub>⭐ From Chamodya Shakunthala — building my way toward Software Architecture, one working system at a time.</sub>
