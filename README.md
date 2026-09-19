@@ -85,9 +85,6 @@ I am passionate about software design & architecture, operating systems(Linux), 
 ![GitHub stars](https://img.shields.io/github/stars/chamodyashakunthala?style=for-the-badge&color=yellow)
 
 
-
-
-![Profile views](https://komarev.com/ghpvc/?username=chamodyashakunthala&style=for-the-badge&color=brightgreen)
 ---
 
 ## 👀 Visitor Count
