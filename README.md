@@ -77,8 +77,17 @@ I am passionate about software design & architecture, operating systems(Linux), 
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chamodyashakunthala&show_icons=true&theme=react&hide_border=true)
+![GitHub followers](https://img.shields.io/github/followers/chamodyashakunthala?style=for-the-badge&color=blue)
 
+
+
+
+![GitHub stars](https://img.shields.io/github/stars/chamodyashakunthala?style=for-the-badge&color=yellow)
+
+
+
+
+![Profile views](https://komarev.com/ghpvc/?username=chamodyashakunthala&style=for-the-badge&color=brightgreen)
 ---
 
 ## 👀 Visitor Count
