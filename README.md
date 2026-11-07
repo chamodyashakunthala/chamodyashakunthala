@@ -41,8 +41,6 @@ I am passionate about software design & architecture, operating systems(Linux), 
   <img src="https://skillicons.dev/icons?i=java,cpp,dart,go,postgres,redis,docker,flutter,linux,mysql,git,github,html,css,figma" height="120" />
 </p>
 
-# 🎉 Badges
-   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b5ada2cb-cff7-4b0d-95ca-b745e78c8c92" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 ### 🤝 Soft Skills
